@@ -1,6 +1,6 @@
 # Auracast
 
-Auracast is a dynamic weather application designed to provide accurate and real-time weather data. Leveraging the OpenWeatherMap API, Auracast offers current weather updates, multi-day forecasts, and location-based weather searches, all presented through a user-friendly interface.
+A dynamic weather application designed to provide accurate and real-time weather data. Leveraging the OpenWeatherMap API, Auracast offers current weather updates, multi-day forecasts, and location-based weather searches, all presented through a user-friendly interface.
 
 ## What has been done
 
